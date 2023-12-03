@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style2.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	color: #E3F1E3;
+}
+.auto-style2 {
+	text-align: center;
+}
+.auto-style4 {
+	font-weight: normal;
+	color: #000000;
+	
+}
+</style>
+</head>
+
+<body>
+
+<div id="container">
+	<div id="masthead">
+		<h1 class="auto-style1" style="height: 60px">HEALTHY RECIPIES</h1>
+		<h3>Tell me what you eat, and I will tell who you are</h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation" ,>
+		<ul style="height: 144px">
+			<li>
+			<a href="http://HOME.html" style="background-color: #FF0000; background: #FFFFFF; font-weight: bold">Home</a></li>
+			<li>
+			<a href="RECIPIES.html" style="background-color: #FF0000; background: #FFFFFF; font-weight: bold">Recipies</a></li>
+			<li><a href="ARTICLES.html" style="font-weight: bold">Articles</a></li>
+			<li><a href="ABOUT.html" style="font-weight: bold">About</a></li>
+			<li><a href="GALLERY.html" style="font-weight: bold">Photo Gallery</a></li>
+		</ul>
+		<p>
+		<img alt="pic2" height="135" longdesc="logo" src="pics/healthy-food-logo-green-circle-brush-vegan-badge-vector-19916613.jpg" width="148" /></p>
+		<p style="height: 641px">&nbsp;</p>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content">
+		<!-- #BeginEditable "content" -->
+		<h2 class="auto-style2">Choose Your Healthy</h2>
+		<h2 class="auto-style2">&nbsp;Breakfast / Lunch / Dinner</h2>
+		
+		<p class="auto-style2">
+		<img alt="pic1" height="323" longdesc="homepic" src="pics/1433952072335.jpeg" width="378" /></p>
+		<p> <h2>Greetings from our Healthy Kitchen!</h2>
+		<h3 class="auto-style4">Good food, in our opinion at Healthy Kitchen, is the basis of a happy 
+		and fulfilling existence. We cordially welcome you to join us on a 
+		journey where flavours and health meet, and each recipe serves as a 
+		building block for nourishing your body and spirit.<br />
+		<br />
+		Fresh ingredients, thoughtful cooking, and delectable meals are all 
+		combined in our kitchen. Whether you're a novice or a professional home 
+		cook, our selection of healthy recipes is made to encourage and uplift 
+		your resolve to lead a better lifestyle.<br />
+		<br />
+		Enjoy the taste of well-being, discover the joy of eating a balanced 
+		diet, and delve into a world of deliciously nutritious foods. Our 
+		recipes, which range from hearty breakfasts to filling dinners, are 
+		created with your wellbeing and happiness in mind.</h3></p>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	</div>
+<!-- End Container -->
+
+</body>
+
+</html>
